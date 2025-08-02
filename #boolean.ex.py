@@ -1,0 +1,12 @@
+#boolean
+val=True
+print(val)
+x=True
+y=False
+print(x)
+print(type(x))
+a=10
+b=5
+print(a<b)
+print(a==b)
+print(a>b)
